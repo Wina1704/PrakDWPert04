@@ -1,0 +1,19 @@
+h1{
+    background-color: slateblue;
+    padding: 30px;
+}
+
+p {
+    width: 450px;
+}
+
+.relative {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+nav{
+    position: fixed;
+    right: 0;
+}

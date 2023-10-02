@@ -1,0 +1,15 @@
+.border1{
+    width: 200px;
+    border: 2px solid slateblue;
+    padding: 20px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.border2{
+    width: 200px;
+    border: 2px solid salmon;
+    padding: 20px;
+    margin: 5px;
+    box-sizing: border-box;
+}
